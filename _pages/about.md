@@ -13,8 +13,8 @@ My dissertation examines how dispositional anxiety shapes economic attitudes by 
 
 My other research explores topics such as how public opinion responds to changes in ethnic diversity and how cognitive skills shape the effects of political information.
 
-I am also a ragtime piano enthusiast<sup>[1](#footnote)</sup>, bass guitar player, and lover of [Flemish Brown Ales](https://en.wikipedia.org/wiki/Oud_bruin).
+I am also a ragtime piano enthusiast<sup style="color: grey">[1](#footnote)</sup>, bass guitar player, and lover of [Flemish Brown Ales](https://en.wikipedia.org/wiki/Oud_bruin).
 
-$~~~~~~~~~~~$
+$~~~~~~~~~~~~~~~~~~~~~~$
 
-<span style="font-size:0.5em;"><a name="footnote"><sup>1</sup></a> [Here's me playing the Maple Leaf Rag at ISPP 2023 in Montréal](https://drive.google.com/file/d/1xkCO91WDJQQ0Pbmvj_mtcPDrH1Yzi08j/view?usp=drive_link)</span>
+<span style="color: grey; font-size:0.75em;"><a name="footnote"><sup>1</sup></a> [Here's me playing the Maple Leaf Rag at ISPP 2023 in Montréal](https://drive.google.com/file/d/1xkCO91WDJQQ0Pbmvj_mtcPDrH1Yzi08j/view?usp=drive_link)</span>
