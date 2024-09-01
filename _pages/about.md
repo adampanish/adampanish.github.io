@@ -25,5 +25,4 @@ I am also a ragtime piano enthusiast<sup>[1](#footnote)</sup>, bass guitar playe
 
 
 
-
-<span style="font-size:0.5em;"><a name="footnote"><sup>1</sup></a> [Here's me playing the Maple Leaf Rag at ISPP 2023 in Montréal](adampanish.github.io/ISPP 2023.mp4)</span>
+<span style="font-size:0.5em;"><a name="footnote"><sup>1</sup></a> [Here's me playing the Maple Leaf Rag at ISPP 2023 in Montréal](https://drive.google.com/file/d/1xkCO91WDJQQ0Pbmvj_mtcPDrH1Yzi08j/view?usp=drive_link)</span>
