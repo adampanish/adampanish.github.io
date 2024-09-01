@@ -15,4 +15,4 @@ My other research explores topics such as how public opinion responds to changes
 
 I am also a ragtime piano enthusiast[^*], bass guitar player, and lover of [Flemish Brown Ales](https://en.wikipedia.org/wiki/Oud_bruin).
 
-[^*][Here's me playing the Maple Leaf Rag at ISPP 2023 in Montréal](/videos/ISPP 2023.mp4)
+[^*][Here's me playing the Maple Leaf Rag at ISPP 2023 in Montréal](/ISPP 2023.mp4)
