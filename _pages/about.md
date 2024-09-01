@@ -13,7 +13,7 @@ My dissertation examines how dispositional anxiety shapes economic attitudes by 
 
 My other research explores topics such as how public opinion responds to changes in ethnic diversity and how cognitive skills shape the effects of political information.
 
-I am also a ragtime piano enthusiast<sup style="border-bottom: 0; color: grey">[1](#footnote)</sup>, bass guitar player, and lover of <span style="border-bottom: 0">[Flemish Brown Ales](https://en.wikipedia.org/wiki/Oud_bruin)</span>.
+I am also a ragtime piano enthusiast<sup style="border-bottom: 0"><a href="#footnote" style="color: grey; text-decoration: none;">[1]</a></sup>, bass guitar player, and lover of <a href="https://en.wikipedia.org/wiki/Oud_bruin" style="border-bottom: 0; color: grey; text-decoration: none;">Flemish Brown Ales</a>.
 
 <br>
 <br>
@@ -21,4 +21,5 @@ I am also a ragtime piano enthusiast<sup style="border-bottom: 0; color: grey">[
 <br>
 <br>
 
-<span style="border-bottom: 0; color: grey; font-size:0.75em;"><a name="footnote"><sup>1</sup></a> [Here's me playing the Maple Leaf Rag at ISPP 2023 in Montréal](https://drive.google.com/file/d/1xkCO91WDJQQ0Pbmvj_mtcPDrH1Yzi08j/view?usp=drive_link)</span>
+<span style="border-bottom: 0; font-size:0.75em;"><a name="footnote"><sup>1</sup></a> <a href="https://drive.google.com/file/d/1xkCO91WDJQQ0Pbmvj_mtcPDrH1Yzi08j/view?usp=drive_link" style="color: grey; text-decoration: none;">Here's me playing the Maple Leaf Rag at ISPP 2023 in Montréal</a></span>
+
