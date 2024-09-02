@@ -1,9 +1,7 @@
 ---
-title: "POL 201: Introduction to Statistical Methods in Political Science"
-collection: teaching
-type: 
+type: "Undergraduate course"
 permalink: /teaching/POL-201
-venue: 
-date: 
-location: 
+venue: "Stony Brook University, Department of Political Science"
+date: 2014-01-01
+location: "City, Country"
 ---
