@@ -6,5 +6,5 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Some title here](Panish_2024.pdf)
+[My CV (updated August 31 2024)](Panish_CV.pdf)
 
