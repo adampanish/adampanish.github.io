@@ -6,4 +6,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="files/Panish_CV.pdf" type="application/pdf" />
+<embed src="https://adampanish.github.io/files/Panish_CV.pdf" type="application/pdf" />
