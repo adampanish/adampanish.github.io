@@ -4,10 +4,13 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
 ---
 
 
-
+<math>
 % Don't like 10pt? Try 11pt or 12pt
 \documentclass[10pt]{article}
 \RequirePackage[T1]{fontenc}
@@ -526,3 +529,4 @@ Email: \href{mailto:hannah.nam@brooklyn.cuny.edu}{hannah.nam@brooklyn.cuny.edu} 
 \end{document}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%% End CV Document %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+</math>
