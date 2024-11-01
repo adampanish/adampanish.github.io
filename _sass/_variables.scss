@@ -9,6 +9,10 @@
 
 $doc-font-size              : 12;
 
+body {
+  font-size: 12px;
+}
+
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
