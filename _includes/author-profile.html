@@ -34,9 +34,11 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
+      <center>
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i></a>
           <a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar icon-pad-right"></i></a>
           <a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i></a></li>
+      </center>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
