@@ -15,7 +15,6 @@ description              : &description "PhD Candidate | + Political Science"
 url                      : https://adampanish.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adampanish.github.io"
-custom_stylesheet        : assets/css/custom.css
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
