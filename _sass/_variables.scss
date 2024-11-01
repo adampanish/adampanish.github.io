@@ -5,6 +5,22 @@
 /*
    Typography
    ========================================================================== */
+body {
+  background-color: #f4f4f9; /* light gray */
+}
+
+/* Text color */
+p, li, h1, h2, h3, h4, h5, h6 {
+  color: #333333; /* dark gray */
+}
+
+/* Links */
+a {
+  color: #1a73e8; /* blue */
+}
+a:hover {
+  color: #c5221f; /* red for hover */
+}
 
 $doc-font-size              : 16;
 
