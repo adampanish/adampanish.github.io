@@ -8,10 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Adam R. Panish"
+title                    : "Adam R. Panish" 
 title_separator          : "-"
-name                     : &name "Adam R. Panish"
-description              : &description "PhD Candidate | + Political Science"
 url                      : https://adampanish.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adampanish.github.io"
@@ -23,12 +21,6 @@ repository               : "adampanish.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Adam R. Panish"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate | Political Science"
-  location         : "Stony Brook, NY"
-  employer         : "Stony Brook University"
-  uri              : # URL
   email            : "adam.panish@stonybrook.edu" 
 
   # Academic websites
